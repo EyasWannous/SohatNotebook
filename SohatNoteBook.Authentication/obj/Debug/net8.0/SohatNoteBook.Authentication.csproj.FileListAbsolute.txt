@@ -1,0 +1,11 @@
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\bin\Debug\net8.0\SohatNoteBook.Authentication.deps.json
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\bin\Debug\net8.0\SohatNoteBook.Authentication.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\bin\Debug\net8.0\SohatNoteBook.Authentication.pdb
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\SohatNoteBook.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\SohatNoteBook.Authentication.AssemblyInfoInputs.cache
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\SohatNoteBook.Authentication.AssemblyInfo.cs
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\SohatNoteBook.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\SohatNoteBook.Authentication.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\refint\SohatNoteBook.Authentication.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\SohatNoteBook.Authentication.pdb
+C:\Users\eyasw\Desktop\New folder (2)\SohatNoteBook.Authentication\obj\Debug\net8.0\ref\SohatNoteBook.Authentication.dll
