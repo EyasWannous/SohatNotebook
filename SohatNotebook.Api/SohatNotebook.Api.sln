@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SohatNotebook.Api", "SohatNotebook.Api.csproj", "{77979FB1-8922-4906-9919-B57A048981F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNotebook.DataService", "..\SohatNotebook.DataService\SohatNotebook.DataService.csproj", "{BBD0F344-13C4-4FEF-9041-6F4363B20DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNotebook.Entities", "..\SohatNotebook.Entities\SohatNotebook.Entities.csproj", "{B747191E-918E-4DF5-A069-EA013A2CA968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNoteBook.Authentication", "..\SohatNoteBook.Authentication\SohatNoteBook.Authentication.csproj", "{0599E86A-E9E1-4AA5-985B-C16161179EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SohatNotebook.Configuration", "..\SohatNotebook.Configuration\SohatNotebook.Configuration.csproj", "{6FD96481-832E-4AA0-BD5C-4EE203BD6BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77979FB1-8922-4906-9919-B57A048981F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77979FB1-8922-4906-9919-B57A048981F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77979FB1-8922-4906-9919-B57A048981F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77979FB1-8922-4906-9919-B57A048981F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD0F344-13C4-4FEF-9041-6F4363B20DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD0F344-13C4-4FEF-9041-6F4363B20DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD0F344-13C4-4FEF-9041-6F4363B20DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD0F344-13C4-4FEF-9041-6F4363B20DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B747191E-918E-4DF5-A069-EA013A2CA968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B747191E-918E-4DF5-A069-EA013A2CA968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B747191E-918E-4DF5-A069-EA013A2CA968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B747191E-918E-4DF5-A069-EA013A2CA968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0599E86A-E9E1-4AA5-985B-C16161179EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0599E86A-E9E1-4AA5-985B-C16161179EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0599E86A-E9E1-4AA5-985B-C16161179EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0599E86A-E9E1-4AA5-985B-C16161179EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD96481-832E-4AA0-BD5C-4EE203BD6BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD96481-832E-4AA0-BD5C-4EE203BD6BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD96481-832E-4AA0-BD5C-4EE203BD6BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD96481-832E-4AA0-BD5C-4EE203BD6BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F723B1F4-73DB-4F09-A1DE-DB8D308F4A93}
+	EndGlobalSection
+EndGlobal
