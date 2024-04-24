@@ -1,0 +1,12 @@
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\bin\Debug\net8.0\SohatNotebook.Entities.deps.json
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\bin\Debug\net8.0\SohatNotebook.Entities.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\bin\Debug\net8.0\SohatNotebook.Entities.pdb
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.AssemblyInfoInputs.cache
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.AssemblyInfo.cs
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\refint\SohatNotebook.Entities.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.pdb
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\ref\SohatNotebook.Entities.dll
+C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Entities\obj\Debug\net8.0\SohatNotebook.Entities.csproj.AssemblyReference.cache
