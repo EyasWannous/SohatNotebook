@@ -15,3 +15,21 @@ C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.DataService\obj\Debug\net8.0
 C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.Entities.dll
 C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.Entities.pdb
 C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.csproj.CopyComplete
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.DataService.deps.json
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.DataService.runtimeconfig.json
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.DataService.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.DataService.pdb
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.Entities.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\bin\Debug\net8.0\SohatNotebook.Entities.pdb
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.csproj.AssemblyReference.cache
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.AssemblyInfoInputs.cache
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.AssemblyInfo.cs
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.csproj.CoreCompileInputs.cache
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.sourcelink.json
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.csproj.CopyComplete
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\refint\SohatNotebook.DataService.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.pdb
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\SohatNotebook.DataService.genruntimeconfig.cache
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.DataService\obj\Debug\net8.0\ref\SohatNotebook.DataService.dll

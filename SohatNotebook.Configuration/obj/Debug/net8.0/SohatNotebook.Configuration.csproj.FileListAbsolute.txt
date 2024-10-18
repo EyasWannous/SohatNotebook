@@ -9,3 +9,15 @@ C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Configuration\obj\Debug\net8
 C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Configuration\obj\Debug\net8.0\refint\SohatNotebook.Configuration.dll
 C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.pdb
 C:\Users\eyasw\Desktop\New folder (2)\SohatNotebook.Configuration\obj\Debug\net8.0\ref\SohatNotebook.Configuration.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\bin\Debug\net8.0\SohatNotebook.Configuration.deps.json
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\bin\Debug\net8.0\SohatNotebook.Configuration.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\bin\Debug\net8.0\SohatNotebook.Configuration.pdb
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.AssemblyInfoInputs.cache
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.AssemblyInfo.cs
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.sourcelink.json
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\refint\SohatNotebook.Configuration.dll
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\SohatNotebook.Configuration.pdb
+C:\Users\eyasw\Desktop\SohatNotebook\SohatNotebook.Configuration\obj\Debug\net8.0\ref\SohatNotebook.Configuration.dll
